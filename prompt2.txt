@@ -1,0 +1,182 @@
+Actúa como un planificador profesional de viajes de trabajo en México, especializado en viajes ejecutivos y optimización de itinerarios.
+
+Necesito planear un viaje de trabajo desde Tapachula, Chiapas, a Ciudad de México.
+
+DATOS DEL VIAJE:
+- Ciudad de origen: Tapachula, Chiapas, México.
+- Destino: Ciudad de México (CDMX).
+- Fecha de la reunión: 16 de octubre de 2026.
+- Lugar de la reunión: instalaciones de la Secretaría de Educación Pública (SEP), Ciudad de México.
+- Horario de la reunión: 11:00 a 15:00 horas.
+- Motivo: reunión de trabajo.
+- Necesito regresar a Tapachula después de la reunión.
+
+OBJETIVO:
+Diseña un itinerario completo, práctico y eficiente para realizar este viaje, considerando vuelos, tiempos de traslado, transporte mediante Uber, alimentación y regreso a Tapachula.
+
+INVESTIGA INFORMACIÓN ACTUALIZADA EN INTERNET y considera horarios y precios disponibles al momento de realizar la consulta. No inventes vuelos, horarios, precios ni restaurantes.
+
+1. VUELO DE IDA
+Busca las mejores opciones de vuelo Tapachula (TAP) → Ciudad de México (MEX) para el 16 de octubre de 2026.
+
+Prioriza:
+- Llegar a CDMX con suficiente anticipación para estar en las instalaciones de la SEP antes de las 10:30.
+- Preferentemente vuelos directos.
+- Buena relación entre precio, horario y duración.
+- Evitar conexiones innecesarias.
+- Considerar el tiempo desde el aeropuerto hasta la SEP.
+
+Presenta al menos 3 alternativas indicando:
+- Aerolínea.
+- Número de vuelo, si está disponible.
+- Hora de salida.
+- Hora de llegada.
+- Duración.
+- Si es directo o con escala.
+- Precio aproximado.
+- Equipaje incluido.
+- Ventajas y desventajas.
+- Recomendación de la mejor alternativa.
+
+2. TRASLADO A LA SEP
+Determina desde qué aeropuerto de CDMX conviene llegar y calcula un tiempo razonable de traslado hasta las instalaciones de la SEP.
+
+Considera:
+- Uber.
+- Tiempo estimado de traslado.
+- Costo aproximado de Uber.
+- Posibles condiciones de tráfico durante la mañana.
+- Hora recomendada para solicitar el Uber.
+- Margen de seguridad para llegar antes de las 11:00.
+
+Si existen diferentes sedes de la SEP, identifica correctamente cuál corresponde a la reunión y utiliza su dirección exacta.
+
+3. DESAYUNO
+Busca 3 restaurantes o cafeterías cercanos a la ruta aeropuerto → SEP o cerca de la SEP para desayunar.
+
+Prioriza:
+- Que abran temprano.
+- Buena reputación.
+- Servicio rápido.
+- Ambiente adecuado para un viaje de trabajo.
+- Distancia razonable de la SEP.
+- Precio moderado.
+
+Para cada opción indica:
+- Nombre.
+- Ubicación.
+- Distancia aproximada.
+- Horario.
+- Tipo de comida.
+- Precio aproximado por persona.
+- Calificación/reputación.
+- Ventajas y desventajas.
+
+Selecciona una opción recomendada para el desayuno.
+
+4. REUNIÓN
+Integra la reunión en el itinerario:
+
+10:30 – Llegada recomendada a las instalaciones de la SEP.
+11:00 – Inicio de reunión.
+15:00 – Finalización de reunión.
+
+Considera el tiempo necesario para salir de la SEP y trasladarse posteriormente al aeropuerto.
+
+5. COMIDA
+Busca opciones para comer después de la reunión, preferentemente:
+- Cerca de la SEP o sobre la ruta hacia el aeropuerto.
+- Restaurante adecuado para una comida de trabajo.
+- Servicio relativamente rápido.
+- Buena relación calidad/precio.
+
+Presenta 3 opciones y recomienda una.
+
+6. VUELO DE REGRESO
+Busca vuelos CDMX (MEX) → Tapachula (TAP) para el 16 de octubre de 2026.
+
+Considera que la reunión termina a las 15:00.
+
+No recomiendes vuelos que impliquen un riesgo elevado de perderlos debido al traslado desde la SEP.
+
+Presenta:
+- Aerolínea.
+- Número de vuelo, si está disponible.
+- Hora de salida.
+- Hora de llegada a Tapachula.
+- Duración.
+- Precio aproximado.
+- Equipaje incluido.
+- Tiempo estimado SEP → aeropuerto.
+- Margen de seguridad.
+- Nivel de conveniencia.
+
+Indica cuál sería el vuelo de regreso recomendado y cuál sería una alternativa de respaldo.
+
+7. UBER Y TRASLADOS
+Calcula aproximadamente:
+- Aeropuerto → restaurante/desayuno.
+- Restaurante → SEP.
+- SEP → restaurante de comida.
+- Restaurante → aeropuerto.
+
+Si algún trayecto puede realizarse caminando o mediante Metro/Metrobús de forma segura y conveniente, indícalo como alternativa, pero prioriza Uber por tratarse de un viaje de trabajo.
+
+8. ITINERARIO CRONOLÓGICO
+Construye una agenda detallada desde la salida de Tapachula hasta el regreso.
+
+Utiliza una tabla con:
+
+Hora | Actividad | Lugar | Transporte | Duración | Costo estimado | Recomendaciones
+
+Incluye márgenes de seguridad y tiempos de traslado realistas.
+
+9. PRESUPUESTO
+Calcula un presupuesto aproximado del viaje considerando:
+
+- Vuelo de ida.
+- Vuelo de regreso.
+- Uber de todos los trayectos.
+- Desayuno.
+- Comida.
+- Otros gastos razonables.
+
+Presenta:
+- Costo mínimo.
+- Costo recomendado.
+- Costo máximo razonable.
+
+Expresa todos los valores en pesos mexicanos (MXN).
+
+10. RECOMENDACIÓN EJECUTIVA
+Al final, proporciona una propuesta denominada:
+
+"ITINERARIO RECOMENDADO"
+
+Debe seleccionar:
+- Vuelo de ida.
+- Desayuno.
+- Transporte aeropuerto → SEP.
+- Restaurante para comida.
+- Transporte SEP → aeropuerto.
+- Vuelo de regreso.
+
+Explica brevemente por qué esta combinación es la más conveniente considerando:
+1. Puntualidad.
+2. Seguridad.
+3. Comodidad.
+4. Tiempo.
+5. Costo.
+6. Riesgo de perder vuelos.
+
+IMPORTANTE:
+- Utiliza información actualizada de Internet.
+- Verifica los horarios de los vuelos.
+- Verifica que los restaurantes estén abiertos en los horarios propuestos.
+- No inventes precios ni disponibilidad.
+- Distingue claramente entre precios confirmados y precios estimados.
+- Considera que el tráfico de CDMX puede incrementar considerablemente los tiempos de traslado.
+- Incluye un margen de seguridad razonable.
+- Si encuentras información contradictoria, indícalo.
+- Prioriza fuentes oficiales de aerolíneas, restaurantes, aeropuertos y servicios de transporte.
+- Presenta las fuentes utilizadas al final.

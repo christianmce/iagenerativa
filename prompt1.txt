@@ -8,3 +8,6 @@
 #Salidas:
 1.- Genera una nueva imagen basada en el plato de alimentos y añade etiquetas con la estimación de calorías
 2.- Genera una tabla con los atributos nombre de alimentos, calorías, realizando la sumatoria total y mostrando su calificación estimada.
+
+
+Exporta los datos de la tabla en formato excel, genera un archivo .xlsx
